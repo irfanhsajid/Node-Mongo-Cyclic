@@ -128,6 +128,10 @@ app.get('/', (req, res) => {
     res.send('Qutir Mahal Server is running');
 })
 
+app.get('/test', (req, res) => {
+    res.send('test');
+})
+
 app.listen(port, () => {
     console.log('listening from the port', port);
 })
