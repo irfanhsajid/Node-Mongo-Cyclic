@@ -11,4 +11,4 @@ Made with using `Node Js`, `MonogoDB`, `dotenv` and `Cors`.
 
 Live Site Link: [https://qutir-mahal-mern-project.web.app/](https://qutir-mahal-mern-project.web.app/) 
 
-#### NB: This site is responsive to pc and mobile devices.
+#### NB: This site is responsive to pc and mobile devices
